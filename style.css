@@ -20,7 +20,7 @@ body {
   }
   
   a:hover {
-    color: #f00;
+    color: blue;
     text-decoration: underline;
   }
   
