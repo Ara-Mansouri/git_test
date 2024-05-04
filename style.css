@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  h1 {
+    font-size: 24px;
+    color: #000;
+  }
+  
+  p {
+    font-size: 16px;
+    color: #333;
+  }
+  
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #f00;
+    text-decoration: underline;
+  }
+  
